@@ -1,5 +1,3 @@
-<h3 align="center" >[] [] [] --- Tech Stack --- [] [] []</h3>
-
 <p >
 
 <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a> 
@@ -47,7 +45,7 @@
 
 </p>
 
-<h3>Where To Find Me:</h3>
+<h3>Find Me on</h3>
 <p>
 <p><a href="https://github.com/ibrarullah23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/ibrar-ullah-23m" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
